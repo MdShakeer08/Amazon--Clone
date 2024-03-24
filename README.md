@@ -16,6 +16,8 @@ This project is a simplified clone of the Amazon website, created using HTML and
 
 <h2>Screenshots</h2>
 ![Screenshot (269)](https://github.com/MdShakeer08/Amazon--Clone/assets/126508287/3dc7562c-2acb-4ea2-9a97-417335c7c53d)
+![Screenshot 2024-03-24 152413](https://github.com/MdShakeer08/Amazon--Clone/assets/126508287/fd02a837-c010-487a-90bf-b6310b9e4a53)
+
 
 <h2>How to Use</h2>
 Clone the repository: git clone https://github.com/yourusername/amazon-project.git
