@@ -1,9 +1,12 @@
 # Amazon--Clone
 This project is a simplified clone of the Amazon website, created using HTML and CSS. It includes various sections such as a header with the Amazon logo and navigation links, a search bar, and a main content area displaying products in a grid layout. The product cards feature images, titles, prices, and ratings.
 
-Technologies Used
-HTML
-CSS
+<h2>Technologies Used</h2>
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+</ul>
+
 Features
 Responsive design for mobile and desktop screens
 Grid layout for product display
